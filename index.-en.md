@@ -9,8 +9,6 @@
     </td>
     <td width="25%">
       <img src="/1.jpg" width="100%">
-[链接描述](url)
-[英文版](index-en.md)       
-    </td>
+        </td>
   </tr>
 </table>
