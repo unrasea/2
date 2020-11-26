@@ -6,10 +6,10 @@
       <p><b>浙江万里学院</b></p>
       <p><b>邮箱：unrasea@163.com</b></p>
       <p><b>地址：宁波市鄞州区盛莫路1519号浙江万里学院，6楼，邮编31510</b></p>
+<a href="/index-en.html">英文版</a> 
     </td>
     <td width="25%">
-      <img src="/1.jpg" width="100%">
-<a href="/index-en.html">英文版</a>       
+      <img src="/1.jpg" width="100%">      
     </td>
   </tr>
 </table>
